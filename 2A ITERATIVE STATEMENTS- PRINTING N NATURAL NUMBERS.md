@@ -34,9 +34,7 @@ else:
 
 ```
 ### OUTPUT
-```
 ![Screenshot 2025-04-30 154120](https://github.com/user-attachments/assets/c6bfa62a-3233-4101-baf5-d8bfdf8a5ca5)
-```
 ### RESULT
 ```
 The program successfully prints the first n natural numbers using a for loop.

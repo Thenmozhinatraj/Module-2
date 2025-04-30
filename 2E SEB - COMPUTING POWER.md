@@ -21,8 +21,14 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```
+```python
+base = float(input("Enter the base number: "))
+exponent = float(input("Enter the exponent: "))
+result = pow(base, exponent)
+print(f"{base} raised to the power of {exponent} is {result}")
 ```
 ### OUTPUT
+![Screenshot 2025-04-30 155631](https://github.com/user-attachments/assets/f0703822-c105-4dde-a1b8-eb4f5efff1bd)
 
 ### RESULT
+The program successfully computes the power of a given number using the pow() function.

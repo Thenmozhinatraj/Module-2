@@ -21,17 +21,25 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ### 🧾 Program
 
 ```python
-#Reg.NO
-#Name
+#Reg.NO-212223060291
+#Name-Thenmozhi N
 #Write your Code here
+n = int(input("Enter a positive integer: "))
+if n <= 0:
+    print("Please enter a positive integer.")
+else:
+    print(f"The first {n} natural numbers are:")
+    for i in range(1, n + 1):
+        print(i)
 
 ```
 ### OUTPUT
 ```
-
+![Screenshot 2025-04-30 154120](https://github.com/user-attachments/assets/c6bfa62a-3233-4101-baf5-d8bfdf8a5ca5)
 ```
 ### RESULT
 ```
+The program successfully prints the first n natural numbers using a for loop.
 
 ```
 

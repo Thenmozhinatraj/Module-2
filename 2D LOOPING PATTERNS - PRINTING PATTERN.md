@@ -34,7 +34,8 @@ for i in range(1, rows + 1):
 ```
 
 ### OUTPUT
-![Screenshot 2025-04-30 155219](https://github.com/user-attachments/assets/4b314c2a-61f1-4115-9209-f6d97685866c)
+![image](https://github.com/user-attachments/assets/fee91e11-69a0-4f22-a34a-a5c2dd73bc15)
+
 
 ### RESULT
 The program successfully prints a triangular star pattern using loops.

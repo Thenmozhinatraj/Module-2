@@ -22,13 +22,15 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```python
-base = float(input("Enter the base number: "))
-exponent = float(input("Enter the exponent: "))
-result = pow(base, exponent)
-print(f"{base} raised to the power of {exponent} is {result}")
+a=int(input())
+b=int(input())
+power=lambda a,b:pow(a,b)
+print("Power of the given number is:",power(a,b))
 ```
 ### OUTPUT
-![Screenshot 2025-04-30 155631](https://github.com/user-attachments/assets/f0703822-c105-4dde-a1b8-eb4f5efff1bd)
+
+![image](https://github.com/user-attachments/assets/faff2020-487f-4cd5-867b-21b6892018c2)
+
 
 ### RESULT
-The program successfully computes the power of a given number using the pow() function.
+Thus a Python program to compute the power of a given number using an appropriate built-in function was executed and implemented successfully.

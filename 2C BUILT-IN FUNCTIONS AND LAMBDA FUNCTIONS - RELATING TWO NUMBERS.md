@@ -24,7 +24,7 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```python
-compare = lambda a, b: "a is greater than b" if a > b else ("a is equal to b" if a == b else "a is less than b")
+compare = lambda a, b: "a is greater than b" if a > b else ("a is equal to b" if a == b else "a is smaller than b")
 a = int(input("Enter first number (a): "))
 b = int(input("Enter second number (b): "))
 print(compare(a, b))
@@ -32,7 +32,7 @@ print(compare(a, b))
 
 ### OUTPUT
 
-![Screenshot 2025-04-30 154927](https://github.com/user-attachments/assets/504e9540-41ff-49f8-841e-331fcb12d6c0)
+![image](https://github.com/user-attachments/assets/391e3b8f-f676-476a-9163-d88000c4bac7)
 
 ### RESULT
 

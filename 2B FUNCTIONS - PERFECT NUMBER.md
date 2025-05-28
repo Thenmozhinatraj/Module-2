@@ -37,13 +37,14 @@ n = int(input("Enter a number: "))
 
 # Checking and printing result
 if is_perfect(n):
-    print(n, "is a Perfect Number.")
+    print(n, "The number is a Perfect Number.")
 else:
-    print(n, "is not a Perfect Number.")
+    print(n, "The number is not a Perfect Number.")
 
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/faf41618-0c3a-413f-bca0-09780c75a95d)
+![image](https://github.com/user-attachments/assets/4183f300-c852-4fd0-8c0a-b121cc8613c8)
+
 
 ### RESULT
 ```
